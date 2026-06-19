@@ -1,0 +1,26 @@
+Project Title:
+House Price Prediction using Machine Learning
+
+Dataset:
+House Prices - Advanced Regression Techniques (Kaggle)
+
+Algorithms Used:
+1. Linear Regression
+2. Decision Tree Regressor
+3. Random Forest Regressor
+
+Evaluation Metrics:
+MAE
+RMSE
+R² Score
+
+Best Model:
+Random Forest Regressor
+
+Tools:
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Scikit-Learn
